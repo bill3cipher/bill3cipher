@@ -1,7 +1,4 @@
 # Hi, I'm Chakhrit Supapol(New) 👋 🆕
-## 😺 About Me
-I'm a backend developer @Open Source Technology Co., Ltd.
-
 
 ## 🔗 Links my profile
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnew.dev/) -->
